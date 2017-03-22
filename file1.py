@@ -1,3 +1,3 @@
 print("first")
-print("second")
+print("not second")
 print("third")
