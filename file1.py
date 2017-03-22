@@ -1,3 +1,4 @@
 print("first")
-print("not second")
-print("third")
+print("sssnd")
+print("bbb")
+print("aaa")
