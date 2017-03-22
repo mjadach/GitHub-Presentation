@@ -3,5 +3,5 @@ print("sssnd")
 print("bbb")
 print("aaa")
 
-x = 4+2
+x = 43+2
 print(x)
